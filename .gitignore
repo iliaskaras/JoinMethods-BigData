@@ -1,0 +1,17 @@
+*.class
+*.log
+
+*.iml
+*.ipr
+*.iws
+.idea
+out
+
+dist/*
+target/
+project/target/*
+.history
+.cache
+data/*
+.lib/
+out/*

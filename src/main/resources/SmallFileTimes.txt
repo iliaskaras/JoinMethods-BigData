@@ -1,0 +1,8 @@
+
+ Small file times : 
+
+	 Time:16ms , for Native join RDD result count : 4.
+	 Time:36ms , for Native join Dataset result count : 4.
+	 Time:124ms , for SQL join Dataframe result count : 4.
+	 Time:14ms , for BroadcastHash Join, RDD result count : 4.
+	 Time:15ms , for BroadcastHash Join with Secondary Sort, RDD result count : 4.
